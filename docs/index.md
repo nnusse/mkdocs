@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-# Hello Checkout!
+# Hello Team Checkout!
 
 It's me **Norm** <3
 
