@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+# Hello Checkout!
+
+It's me **Norm** <3
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
